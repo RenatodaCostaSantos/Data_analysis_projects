@@ -1,4 +1,9 @@
-# Topics in Physics students in Brazil struggle with
+# Challenging topics in Physics
+
+
+<p align="center">
+  <img width="1000" height="500" src="equations.jpg">
+</p>
 
 
 
