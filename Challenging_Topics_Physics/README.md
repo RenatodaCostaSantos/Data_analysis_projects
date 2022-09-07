@@ -39,7 +39,7 @@ There are two ways I can think of how to approach this project:
 
 1 - Look in the ministery of education website and search for open source data.
 
-This would be the best approach but, unfortunately, the brazilian government is currently remodeling all the data due to the lack of anonimity on the so far, open available data.
+This would be the best approach but, unfortunately, the brazilian government is currently (September 2022) remodeling all the data due to the lack of anonimity on the so far, open available data.
 
 Given that, I will use a second approach:
 
@@ -111,6 +111,36 @@ The list of **subtopics** for the dynamics is given by:
 22. Velocidade de escape 
 23. Aceleração da gravidade.
 <br/><br/>
+
+The Jupyter notebooks with the scrapped data, it's cleaning and exploration can be found in this project's folder.
+
+# A guessing game
+
+Before showing our analysis and conclusions let's take a minute to do some guessing about what we think we could expect given the available data.
+
+Guessing the outcome has various benefits:
+
+1. It forces us to use our intuition and think deeply about the problem we are investigating,
+
+2. It can lead us to find some variables that could be engineered if machine learning is our final goal,
+
+3. It helps on the cleaning and exploration analysis before we start deriving conclusions,
+
+4. It makes us critical of our results beforehand.
+
+For this project we have only 12 columns given by: 'video_id', 'title', 'description', 'tags', 'channel_id', 'duration', 'view_count', 'like_count', 'topic', 'subtopic','dificulty'.
+
+My two guessess are:
+
+1. Videos with length less than 10 minutes will have more views than longer videos.
+
+2. Easy topics will be have more potential for new videos than hard ones (this is counter intuitive but my guess is that students struggle with simple topics and get stuck there. Even with high volume videos, it seems that many easy topics are still not covered in a more intuitive way).
+
+       
+   
+
+
+
 
 # Intermission!
 
