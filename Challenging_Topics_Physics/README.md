@@ -1,37 +1,23 @@
-# Challenging topics in Physics
+# Potential topics in Physics
 
 
 <p align="center">
   <img width="1000" height="500" src="equations.jpg">
 </p>
 
-
-
-
-NOTE: 
-
-- THIS IS A WORK IN PROGRESS. 
-
-- ONLY THE DATA SCRAPING PART IS FINISHED.
-
-- I'M CURRENTLY BUSY WITH THE DATA EXPLORATION, CLEANING AND ANALYSIS WHICH WILL BE UPLOADED HERE SHORTLY.
-
-
-Back to the project!
+What do you mean by potential topics, you might ask. Please read below to find out.
 
 A couple of years ago, my long distance girlfriend at that time was studying for the University entrance exams when she asked me to teach her how to [compute the square root of decimal numbers](youtube.com/watch?v=v7AUT1TMxZM&t=8s). Instead of just sending her a video with my explanation, I decided to start a [channel on YouTube](https://www.youtube.com/channel/UCQJtnudYBb-nULKBjmkhTnw).
 
-I made some other videos based on questions other friends asked me and some other random topics in Mathematics and Physics but I was always trying to think of a more sound way for choosing topics that would be really helpful for the students.
+I made some other videos based on questions other friends asked me and some other random topics in Mathematics and Physics but I was always trying to think of a more sound way for choosing topics that would be really helpful to the students.
 
-It turns out that the answer seems to always be in some kind of **data**. 
-
-So, as a Brazilian physicist and knowing the difficulties and costs of high quality education in my country, I decided to build my first data science project with the intention to answer the following question:
+So, as a Brazilian physicist and knowing the difficulties and costs of high quality education in my country, I decided to build my first data analysis project with the intention to answer the following question:
 
 **- Which topics/subtopics of Physics students in Brazil struggle the most?**
 
 By answering this question I intend to be able to **select potential topics** and use this information to create new videos on my YouTube channel. 
 
-The final goal is to target topics that are badly covered and give a valuable contribution to the educational system of my home country.
+Potential topics are those that are badly covered by youtubers, but searched often by students. By identifying a few of them  I use this information to create videos for my youtube channel and contribute more effectively to the educational system of my home country.
 
 ## Strategy
 
@@ -93,7 +79,7 @@ The list of **subtopics** in the Brazilian education high school curriculum is t
 
 <br/>
 
-- Dinamica (dynamics), which explains the kinematic description by means of fundamental cause (force of gravity, the existence of a spring, etc).
+- Dinamica (dynamics), which explains the kinematic description by means of a fundamental cause (force of gravity, the presence of a spring, etc).
 <br/><br/>
 
 The list of **subtopics** for the dynamics is given by:
@@ -112,7 +98,16 @@ The list of **subtopics** for the dynamics is given by:
 23. Aceleração da gravidade.
 <br/><br/>
 
-The Jupyter notebooks with the scrapped data, it's cleaning and exploration can be found in this project's folder.
+Jupyter notebooks used to scrapped the data, explore, clean and analyse it can be found [here](https://github.com/RenatodaCostaSantos/Portfolio/tree/main/Challenging_Topics_Physics).
+
+# Our goals
+
+1. Are short videos watched more often than longer ones?
+<br/><br/>
+2. Which class of topics has more views? Hard, easy or moderate topics?
+<br/><br/>
+3. Which specific topics are worth investing on video production for my youtube channel?
+
 
 # A guessing game
 
@@ -128,18 +123,22 @@ Guessing the outcome has various benefits:
 
 4. It makes us critical of our results beforehand.
 
-For this project we have only 12 columns given by: 'video_id', 'title', 'description', 'tags', 'channel_id', 'duration', 'view_count', 'like_count', 'topic', 'subtopic','dificulty'.
 
-My two guessess are:
+My guesses are:
+<br/><br/>
+**Guess for question 1:** Longer videos have less views than shorter ones.
 
-1. Videos with length less than 10 minutes will have more views than longer videos.
+While making videos for youtube I remember always becoming a bit anxious to force the video duration to be under 8 minutes precisely because of this guess. My intuition is that students have a lack of attention in general and want to learn things fast.
+<br/><br/>
+**Guess for question 2:**  **Easy** topics will have, on average, more views than **hard** topics. However, I expect **hard** topics to be better covered than **easy** ones.
 
-2. Easy topics will be have more potential for new videos than hard ones (this is counter intuitive but my guess is that students struggle with simple topics and get stuck there. Even with high volume videos, it seems that many easy topics are still not covered in a more intuitive way).
+The first part of the answer would happen because of the struggles students face when start learning physics. They seem to get stuck right in the beginning.
 
-       
-   
+Even though easy topics would have more views I expect to find a reasonable amount of easy topics that are not well covered.
 
+I believe people that make videos for youtube intuitively think that hard topics should get more attention, which will lead to a higher number of successful videos.
 
+**Guess for question 3:** I can't think of a reasonable answer for this one. We will leave it to the data.
 
 
 # Intermission!
