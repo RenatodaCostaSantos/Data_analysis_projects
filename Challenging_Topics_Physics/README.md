@@ -145,16 +145,35 @@ I believe people that make videos for youtube intuitively think that hard topics
 
 A more precise and technical analysis and answers for the questions below can be found on the jupyter nootebooks here. 
 
-We try to use a more intuitive, however less precise, approach below.
+We try to use a more intuitive, however less precise, approach below. 
 
 ## Are shorter videos watched more often than longer ones?
 
-In order to see what the data has to tell about it, we plot the graph below. It shows that, contrary to our guess, longer videos seems to have more views than shorter ones. This means no need to be anxious to keep the videos under 8 minutes.
-<p align="center">
-  <img width="1000" height="500" src="positive_corr.png">
+The graph below shows that, contrary to our guess, longer videos seems to have more views than shorter ones. 
+
+Actually, the graph suggest that videos with time duration that fall into the 8 to 12 minutes or higher than 14 minutes are usually watched more often. 
+
+This means no need to be anxious to keep the videos under 8 minutes when recording physics videos for youtube.
+
+
+<p align="center" width="100%">
+    <img width="80%" src="https://github.com/RenatodaCostaSantos/Portfolio/blob/main/Challenging_Topics_Physics/images/positive_corr.png?raw=true"> 
+</p>
+
+# Are easy topics watched more often than hard ones?
+
+Even though a bar plot tend to loose a lot of information, it can give us an indication to the answer in this case. 
+
+As we see below, easy and moderate topics have more views, on average, than hard ones. The first part of our guess seems to be correct. 
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/RenatodaCostaSantos/Portfolio/blob/main/Challenging_Topics_Physics/images/avg_view_diff.png?raw=true"> 
 </p>
 
 
+In our analysis, we defined the score of videos as the like to view ratio. A video with a number of likes closer to the number of views will have a high score. That's how we classify successful videos here.
 
+In order to see if videos about easy topics have, on average, more successful videos than harder topics, we again make a bar plot.
 
-
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/RenatodaCostaSantos/Portfolio/blob/main/Challenging_Topics_Physics/images/avg_score_diff2.png?raw=true"> 
+</p>
