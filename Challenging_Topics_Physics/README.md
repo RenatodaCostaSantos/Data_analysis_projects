@@ -220,6 +220,7 @@ Make videos covering the following subtopics in the following order:
 3 - Centro de massa e equilíbrio (third best).
 
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/renato-costa-b937851b3/).
 
 
 
