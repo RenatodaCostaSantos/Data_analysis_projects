@@ -64,18 +64,18 @@ Mechanics is a huge branch of physics and can be divided into two main subtopics
 
 The list of **subtopics** in the Brazilian education high school curriculum is the following:
 
- 1. Movimento e Repouso
- 2. Movimento Uniforme 
- 3. Movimento Uniformente variado 
- 4. Lançamento vertical para cima 
- 5. Queda livre 
- 6. Vetores / Lançamento oblíquo 
- 7. Lançamento horizontal  
- 8. Cinemática vetorial 
- 9. Movimento Circular 
- 10. Estática de um ponto material
- 11. Centro de massa e equilíbrio
- 12. Estática do corpo extenso.
+ 1. Movimento e Repouso (Rest and motion)
+ 2. Movimento Uniforme (Uniform motion)
+ 3. Movimento Uniformente variado (Motion with constant acceleration)
+ 4. Lançamento vertical para cima (Upward vertical launch)
+ 5. Queda livre (Free fall)
+ 6. Vetores / Lançamento oblíquo (Vectors / Projectile launch)
+ 7. Lançamento horizontal  (Horizontal launch)
+ 8. Cinemática vetorial (Vector kinematics)
+ 9. Movimento Circular (Circular motion)
+ 10. Estática de um ponto material (Static of a material point)
+ 11. Centro de massa e equilíbrio (Center of mass and balance)
+ 12. Estática do corpo extenso (Statics of a rigid body).
 
 <br/>
 
@@ -85,17 +85,17 @@ The list of **subtopics** in the Brazilian education high school curriculum is t
 The list of **subtopics** for the dynamics is given by:
 <br/><br/>
 
-13. Leis de Newton
-14. Forças tração, normal e peso
-15. Força elástica 
-16. Força de atrito 
-17. Trabalho e energia 
-18. Impulso e quantidade de movimento 
-19. Lei de Kepler 
-20. Lei de gravitação Universal 
-21. Satélite em órbitas circulares 
-22. Velocidade de escape 
-23. Aceleração da gravidade.
+13. Leis de Newton (Newton's law)
+14. Forças tração, normal e peso (Tension, normal, and weight forces)
+15. Força elástica (Elastic force)
+16. Força de atrito (Friction force)
+17. Trabalho e energia (Mechanical work and energy)
+18. Impulso e quantidade de movimento (Impulse and momentum)
+19. Lei de Kepler (Kepler's law)
+20. Lei de gravitação Universal (Law of universal gravitation)
+21. Satélite em órbitas circulares (Satellites in circular orbits)
+22. Velocidade de escape (Escape velocity)
+23. Aceleração da gravidade (Gravitational acceleration).
 <br/><br/>
 
 # Our goals
@@ -211,11 +211,11 @@ When making Physics videos for youtube in Portuguese, I suggest the following:
 
 Make videos covering the following subtopics in the following order:
 
-1 - Forças de tração normal e peso (best subtopic);
+1 - Forças de tração normal e peso (Tension, normal, and weight forces - best subtopic);
 
-2 - Aceleração da gravidade (second best);
+2 - Aceleração da gravidade (Gravitational acceleration - second best);
 
-3 - Centro de massa e equilíbrio (third best).
+3 - Centro de massa e equilíbrio (Center of mass and balance - third best).
 
 
 **Connect with me on [LinkedIn](https://www.linkedin.com/in/renato-costa-b937851b3/)**.
