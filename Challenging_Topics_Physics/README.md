@@ -189,15 +189,15 @@ We can identify three main subtopics to focus our attention on video production 
 
 We choose the three subtopics with the lowest percentage of very high-quality videos as having a higher potential to invest. They are given by:
 
-1.  'Forças de tração normal e peso' 
+1.  **Forças de tração normal e peso (Tension, normal, and weight forces)**
 
 A more detailed analysis shows that this subtopic is highly searched by students and has the lowest percentage of very high-quality videos. Definitely our winner in this analysis.
 
-2. 'Aceleração da gravidade'
+2. **Aceleração da gravidade (Gravitational acceleration)**
 
 This one has the third-lowest score, but the second-highest number of views. Since it is more searched by students, it will increase the chance of our video being viewed more often, even though there are more very high-quality videos on this subtopic.
 
-3. 'Centro de massa e equilíbrio'
+3. **Centro de massa e equilíbrio (Center of mass and balance)**
 
 It has the second-lowest score, but the third-highest number of views among the three videos we chose to invest our efforts in video production. It is a hard topic and usually less searched by students, and I would invest time in it only after putting effort into the ones above.
 
@@ -211,11 +211,11 @@ When making Physics videos for youtube in Portuguese, I suggest the following:
 
 Make videos covering the following subtopics in the following order:
 
-1 - Forças de tração normal e peso (Tension, normal, and weight forces - best subtopic);
+1 - **Forças de tração normal e peso (Tension, normal, and weight forces - best subtopic)**;
 
-2 - Aceleração da gravidade (Gravitational acceleration - second best);
+2 - **Aceleração da gravidade (Gravitational acceleration - second best)**;
 
-3 - Centro de massa e equilíbrio (Center of mass and balance - third best).
+3 - **Centro de massa e equilíbrio (Center of mass and balance - third best)**.
 
 
 **Connect with me on [LinkedIn](https://www.linkedin.com/in/renato-costa-b937851b3/)**.
