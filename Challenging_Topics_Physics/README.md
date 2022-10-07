@@ -98,8 +98,6 @@ The list of **subtopics** for the dynamics is given by:
 23. Aceleração da gravidade.
 <br/><br/>
 
-Jupyter notebooks used to scrapped the data, explore, clean and analyse it can be found [here](https://github.com/RenatodaCostaSantos/Portfolio/tree/main/Challenging_Topics_Physics).
-
 # Our goals
 
 1. Are short videos watched more often than longer ones?
@@ -143,7 +141,7 @@ I believe people that make videos for youtube intuitively think that hard topics
 
 # Data analysis
 
-A more precise and technical analysis and answers for the questions below can be found on the jupyter nootebooks here. 
+A more precise and technical analysis and answers for the questions below can be found in the jupyter nootebooks above. 
 
 We try to use a more intuitive, however less precise, approach below. 
 
