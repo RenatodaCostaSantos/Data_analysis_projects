@@ -75,7 +75,7 @@ The list of **subtopics** in the Brazilian education high school curriculum is t
  9. Movimento Circular (Circular motion)
  10. Estática de um ponto material (Static of a material point)
  11. Centro de massa e equilíbrio (Center of mass and balance)
- 12. Estática do corpo extenso (Statics of a rigid body).
+ 12. Estática do corpo extenso (Static of a rigid body).
 
 <br/>
 
