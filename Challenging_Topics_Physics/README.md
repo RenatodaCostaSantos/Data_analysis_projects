@@ -166,7 +166,7 @@ Even though a bar plot tend to loose a lot of information, it can give us an ind
 
 As we see below, easy and moderate topics have more views, on average, than hard ones. The first part of our guess seems to be correct. 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/RenatodaCostaSantos/Portfolio/blob/main/Challenging_Topics_Physics/images/avg_view_diff.png?raw=true"> 
+    <img width="60%" src="https://github.com/RenatodaCostaSantos/Portfolio/blob/main/Challenging_Topics_Physics/images/views.png?raw=true"> 
 </p>
 
 
@@ -175,5 +175,5 @@ In our analysis, we defined the score of videos as the like to view ratio. A vid
 In order to see if videos about easy topics have, on average, more successful videos than harder topics, we again make a bar plot.
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/RenatodaCostaSantos/Portfolio/blob/main/Challenging_Topics_Physics/images/avg_score_diff2.png?raw=true"> 
+    <img width="60%" src="https://github.com/RenatodaCostaSantos/Portfolio/blob/main/Challenging_Topics_Physics/images/avg_score_diff.png?raw=true"> 
 </p>
