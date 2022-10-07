@@ -160,20 +160,69 @@ This means no need to be anxious to keep the videos under 8 minutes when recordi
     <img width="80%" src="https://github.com/RenatodaCostaSantos/Portfolio/blob/main/Challenging_Topics_Physics/images/positive_corr.png?raw=true"> 
 </p>
 
-# Are easy topics watched more often than hard ones?
+## Are easy topics watched more often than hard ones?
 
 Even though a bar plot tend to loose a lot of information, it can give us an indication to the answer in this case. 
 
-As we see below, easy and moderate topics have more views, on average, than hard ones. The first part of our guess seems to be correct. 
+As we see below, moderate and easy topics have more views, on average, than hard ones. This indicates that the first part of our guess is correct. 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/RenatodaCostaSantos/Portfolio/blob/main/Challenging_Topics_Physics/images/views.png?raw=true"> 
+    <img width="60%" src="https://github.com/RenatodaCostaSantos/Portfolio/blob/main/Challenging_Topics_Physics/images/avg_view2_diff.png?raw=true"> 
 </p>
 
 
-In our analysis, we defined the score of videos as the like to view ratio. A video with a number of likes closer to the number of views will have a high score. That's how we classify successful videos here.
+In our analysis, we defined the score of videos as the like to view ratio. That means a video with a number of likes closer to the number of views will have a high score. That's how we classify successful videos here.
 
-In order to see if videos about easy topics have, on average, more successful videos than harder topics, we again make a bar plot.
+The bar plot below shows exactly that. Easy videos seems to be have, on average, a lower score. This gives an indication that easy topics could have more potential than hard and moderate ones. 
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/RenatodaCostaSantos/Portfolio/blob/main/Challenging_Topics_Physics/images/avg_score_diff.png?raw=true"> 
 </p>
+
+However, as the barplot looses a lot of information, a definite answer can only be found by looking at each subtopic separately. 
+
+## Which subtopics should we invest on video production?
+
+We can identify three main subtopics to focus our attention on video production by looking at the number of very high quality videos per subtopic:
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/RenatodaCostaSantos/Portfolio/blob/main/Challenging_Topics_Physics/images/high_quality_videos_per.png?raw=true"> 
+</p>
+
+
+We choose the three subtopics with the lowest percentage of very high quality videos as having higher potential to invest on. They are given by:
+
+1.  'Forças de tração normal e peso' 
+
+A more detailed analysis shows that this subtopic is highly searched by students and has the lowest percentage of very high quality videos. Definitely our winner in this analysis.
+
+2. 'Aceleração da gravidade'
+
+This one has the third lowest score, but the second highest number of views. Since it is more searched by students, it will increase the change of our video to be viewed more often, even though there are more very high quality videos on this subtopic.
+
+3. 'Centro de massa e equilíbrio'
+
+It has the second lowest score, but the third highest number of views among the three videos we chose to invest our efforts in video production. It is a hard topic and usually less searched by students, and I would invest time on it only after putting efforts on the ones above.
+
+
+# Summary
+
+
+When making Physics videos for youtube in portuguese, I suggest the following:
+
+- Focus on videos where time duration stays on the interval of 8 to 20 minutes.
+
+Make videos covering the following subtopics in the following order:
+
+1 - Forças de tração normal e peso (best subtopic);
+
+2 - Aceleração da gravidade (second best);
+
+3 - Centro de massa e equilíbrio (third best).
+
+
+
+
+
+
+
+
