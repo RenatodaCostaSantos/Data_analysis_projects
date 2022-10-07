@@ -7,29 +7,29 @@
 
 What do you mean by potential topics, you might ask. Please read below to find out.
 
-A couple of years ago, my long distance girlfriend at that time was studying for the University entrance exams when she asked me to teach her how to [compute the square root of decimal numbers](youtube.com/watch?v=v7AUT1TMxZM&t=8s). Instead of just sending her a video with my explanation, I decided to start a [channel on YouTube](https://www.youtube.com/channel/UCQJtnudYBb-nULKBjmkhTnw).
+A couple of years ago, my long-distance girlfriend at that time was studying for the University entrance exams when she asked me to teach her how to [compute the square root of decimal numbers](youtube.com/watch?v=v7AUT1TMxZM&t=8s). Instead of just sending her a video with my explanation, I decided to start a [channel on YouTube](https://www.youtube.com/channel/UCQJtnudYBb-nULKBjmkhTnw).
 
-I made some other videos based on questions other friends asked me and some other random topics in Mathematics and Physics but I was always trying to think of a more sound way for choosing topics that would be really helpful to the students.
+I made some other videos based on questions other friends asked me and some other random topics in Mathematics and Physics but I was always trying to think of a more sound way to choose topics that would be really helpful to the students.
 
-So, as a Brazilian physicist and knowing the difficulties and costs of high quality education in my country, I decided to build my first data analysis project with the intention to answer the following question:
+So, as a Brazilian physicist and knowing the difficulties and costs of high-quality education in my country, I decided to build my first data analysis project with the intention to answer the following question:
 
-**- Which topics/subtopics of Physics students in Brazil struggle the most?**
+**- Which topics/subtopics of Physics students in Brazil struggle with the most?**
 
 By answering this question I intend to be able to **select potential topics** and use this information to create new videos on my YouTube channel. 
 
-Potential topics are those that are badly covered by youtubers, but searched often by students. By identifying a few of them  I can use this information to create videos for my youtube channel and contribute more effectively to the educational system of my home country.
+Potential topics are those that are badly covered by YouTubers, but searched often by students. By identifying a few of them  I can use this information to create videos for my youtube channel and contribute more effectively to the educational system of my home country.
 
 ## Strategy
 
 There are two ways I can think of how to approach this project:
 
-1 - Look in the ministery of education website and search for open source data.
+1 - Look in the ministry of education website and search for open source data.
 
-This would be the best approach but, unfortunately, the brazilian government is currently (September 2022) remodeling all the data due to the lack of anonimity on the so far, open available data.
+This would be the best approach but, unfortunately, the Brazilian government is currently (September 2022) remodeling all the data due to the lack of anonymity on the so far, openly available data.
 
 Given that, I will use a second approach:
 
-2.1 - Use the ministery of education information to collect all mandatory topics in Physics pertaining the brazilian school curriculum.
+2.1 - Use the ministry of education information to collect all mandatory topics in Physics pertaining to the Brazilian school curriculum.
 
 2.2 - Use the YouTube API to search for these topics on YouTube.
 
@@ -40,7 +40,7 @@ Given that, I will use a second approach:
 
 ## Main mandatory areas (topics) in the Brazilian school curriculum
 
-Physics is usually divided in four big areas in the Brazilian school curriculum. They are:
+Physics is usually divided into four big areas in the Brazilian school curriculum. They are:
 
 1. Mecanica (Mechanics),
 
@@ -59,7 +59,7 @@ Given the amount of content in each of the topics, this project will focus only 
 Mechanics is a huge branch of physics and can be divided into two main subtopics:
 <br/><br/>
 
-- Cinematica (kinematics), which deals with theh description of movements without taking into considerantion what is causing it.
+- Cinematica (kinematics), which deals with the description of movements without taking into consideration what is causing it.
 <br/><br/>
 
 The list of **subtopics** in the Brazilian education high school curriculum is the following:
@@ -117,16 +117,16 @@ Guessing the outcome has various benefits:
 
 2. It can lead us to find some variables that could be engineered and improve the quality of our analysis,
 
-3. It helps on the cleaning and exploration analysis before we start deriving conclusions,
+3. It helps with the cleaning and exploration analysis before we start deriving conclusions,
 
 4. It makes us critical of our results beforehand.
 
 
 My guesses are:
 <br/><br/>
-**Guess for question 1:** Longer videos have **less views** than shorter ones.
+**Guess for question 1:** Longer videos have **fewer views** than shorter ones.
 
-While making videos for youtube I remember always becoming a bit anxious to force the length of the video to be under 8 minutes precisely because of this guess. My intuition is that students have a lack of attention in general and want to learn things fast.
+While making videos for youtube I remember always becoming a bit anxious to force the length of the video to be under 8 minutes precisely because of this guess. My intuition is that students lack attention in general and want to learn things fast.
 <br/><br/>
 **Guess for question 2:**  **Easy** topics will have, on average, more views than **hard** topics. However, I expect **hard** topics to be better covered than **easy** ones.
 
@@ -141,15 +141,15 @@ I believe people that make videos for youtube intuitively think that hard topics
 
 # Data analysis
 
-A more precise and technical analysis and answers for the questions below can be found in the jupyter nootebooks above. 
+More precise and technical analysis and answers for the questions below can be found in the jupyter nootebooks. 
 
 We try to use a more intuitive, however less precise, approach below. 
 
 ## Are shorter videos watched more often than longer ones?
 
-The graph below shows that, contrary to our guess, longer videos seems to have more views than shorter ones. 
+The graph below shows that, contrary to our guess, longer videos seem to have more views than shorter ones. 
 
-Actually, the graph suggest that videos with time duration that fall into the 8 to 12 minutes or higher than 14 minutes are usually watched more often. 
+Actually, the graph suggests that videos with the time duration that fall into the 8 to 12 minutes or higher than 14 minutes are usually watched more often. 
 
 This means no need to be anxious to keep the videos under 8 minutes when recording physics videos for youtube.
 
@@ -160,7 +160,7 @@ This means no need to be anxious to keep the videos under 8 minutes when recordi
 
 ## Are easy topics watched more often than hard ones?
 
-Even though a bar plot tend to loose a lot of information, it can give us an indication to the answer in this case. 
+Even though a bar plot tends to lose a lot of information, it can give us an indication of the answer in this case. 
 
 As we see below, moderate and easy topics have more views, on average, than hard ones. This indicates that the first part of our guess is correct. 
 <p align="center" width="100%">
@@ -168,46 +168,46 @@ As we see below, moderate and easy topics have more views, on average, than hard
 </p>
 
 
-In our analysis, we defined the score of videos as the like to view ratio. That means a video with a number of likes closer to the number of views will have a high score. That's how we classify successful videos here.
+In our analysis, we defined the score of videos as the like-to-view ratio. That means a video with a number of likes closer to the number of views will have a high score. That's how we classify successful videos here.
 
-The bar plot below shows exactly that. Easy videos seems to be have, on average, a lower score. This gives an indication that easy topics could have more potential than hard and moderate ones. 
+The bar plot below shows exactly that. Easy videos seem to have, on average, a lower score. This gives an indication that easy topics could have more potential than hard and moderate ones. 
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/RenatodaCostaSantos/Portfolio/blob/main/Challenging_Topics_Physics/images/avg_score_diff.png?raw=true"> 
 </p>
 
-However, as the barplot looses a lot of information, a definite answer can only be found by looking at each subtopic separately. 
+However, as the barplot loses a lot of information, a definite answer can only be found by looking at each subtopic separately. 
 
-## Which subtopics should we invest on video production?
+## Which subtopics should we invest in video production?
 
-We can identify three main subtopics to focus our attention on video production by looking at the number of very high quality videos per subtopic:
+We can identify three main subtopics to focus our attention on video production by looking at the number of very high-quality videos per subtopic:
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/RenatodaCostaSantos/Portfolio/blob/main/Challenging_Topics_Physics/images/high_quality_videos_per.png?raw=true"> 
 </p>
 
 
-We choose the three subtopics with the lowest percentage of very high quality videos as having higher potential to invest on. They are given by:
+We choose the three subtopics with the lowest percentage of very high-quality videos as having a higher potential to invest. They are given by:
 
 1.  'Forças de tração normal e peso' 
 
-A more detailed analysis shows that this subtopic is highly searched by students and has the lowest percentage of very high quality videos. Definitely our winner in this analysis.
+A more detailed analysis shows that this subtopic is highly searched by students and has the lowest percentage of very high-quality videos. Definitely our winner in this analysis.
 
 2. 'Aceleração da gravidade'
 
-This one has the third lowest score, but the second highest number of views. Since it is more searched by students, it will increase the change of our video to be viewed more often, even though there are more very high quality videos on this subtopic.
+This one has the third-lowest score, but the second-highest number of views. Since it is more searched by students, it will increase the chance of our video being viewed more often, even though there are more very high-quality videos on this subtopic.
 
 3. 'Centro de massa e equilíbrio'
 
-It has the second lowest score, but the third highest number of views among the three videos we chose to invest our efforts in video production. It is a hard topic and usually less searched by students, and I would invest time on it only after putting efforts on the ones above.
+It has the second-lowest score, but the third-highest number of views among the three videos we chose to invest our efforts in video production. It is a hard topic and usually less searched by students, and I would invest time in it only after putting effort into the ones above.
 
 
 # Summary
 
 
-When making Physics videos for youtube in portuguese, I suggest the following:
+When making Physics videos for youtube in Portuguese, I suggest the following:
 
-- Focus on videos where time duration stays on the interval of 8 to 20 minutes.
+- Focus on videos where the time duration stays in the interval of 8 to 20 minutes.
 
 Make videos covering the following subtopics in the following order:
 
@@ -218,7 +218,7 @@ Make videos covering the following subtopics in the following order:
 3 - Centro de massa e equilíbrio (third best).
 
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/renato-costa-b937851b3/).
+**Connect with me on [LinkedIn](https://www.linkedin.com/in/renato-costa-b937851b3/)**.
 
 
 
