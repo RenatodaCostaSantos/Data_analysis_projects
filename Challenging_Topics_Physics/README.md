@@ -17,7 +17,7 @@ So, as a Brazilian physicist and knowing the difficulties and costs of high qual
 
 By answering this question I intend to be able to **select potential topics** and use this information to create new videos on my YouTube channel. 
 
-Potential topics are those that are badly covered by youtubers, but searched often by students. By identifying a few of them  I use this information to create videos for my youtube channel and contribute more effectively to the educational system of my home country.
+Potential topics are those that are badly covered by youtubers, but searched often by students. By identifying a few of them  I can use this information to create videos for my youtube channel and contribute more effectively to the educational system of my home country.
 
 ## Strategy
 
@@ -117,7 +117,7 @@ Guessing the outcome has various benefits:
 
 1. It forces us to use our intuition and think deeply about the problem we are investigating,
 
-2. It can lead us to find some variables that could be engineered if machine learning is our final goal,
+2. It can lead us to find some variables that could be engineered and improve the quality of our analysis,
 
 3. It helps on the cleaning and exploration analysis before we start deriving conclusions,
 
@@ -126,9 +126,9 @@ Guessing the outcome has various benefits:
 
 My guesses are:
 <br/><br/>
-**Guess for question 1:** Longer videos have less views than shorter ones.
+**Guess for question 1:** Longer videos have **less views** than shorter ones.
 
-While making videos for youtube I remember always becoming a bit anxious to force the video duration to be under 8 minutes precisely because of this guess. My intuition is that students have a lack of attention in general and want to learn things fast.
+While making videos for youtube I remember always becoming a bit anxious to force the length of the video to be under 8 minutes precisely because of this guess. My intuition is that students have a lack of attention in general and want to learn things fast.
 <br/><br/>
 **Guess for question 2:**  **Easy** topics will have, on average, more views than **hard** topics. However, I expect **hard** topics to be better covered than **easy** ones.
 
@@ -136,12 +136,25 @@ The first part of the answer would happen because of the struggles students face
 
 Even though easy topics would have more views I expect to find a reasonable amount of easy topics that are not well covered.
 
-I believe people that make videos for youtube intuitively think that hard topics should get more attention, which will lead to a higher number of successful videos.
+I believe people that make videos for youtube intuitively think that hard topics should get more attention, which will lead to a higher number of successful videos for hard topics.
 
 **Guess for question 3:** I can't think of a reasonable answer for this one. We will leave it to the data.
 
 
-# Intermission!
+# Data analysis
 
-The follow up data analysis and conclusions will be posted here soon!
+A more precise and technical analysis and answers for the questions below can be found on the jupyter nootebooks here. 
+
+We try to use a more intuitive, however less precise, approach below.
+
+## Are shorter videos watched more often than longer ones?
+
+In order to see what the data has to tell about it, we plot the graph below. It shows that, contrary to our guess, longer videos seems to have more views than shorter ones. This means no need to be anxious to keep the videos under 8 minutes.
+<p align="center">
+  <img width="1000" height="500" src="positive_corr.png">
+</p>
+
+
+
+
 
