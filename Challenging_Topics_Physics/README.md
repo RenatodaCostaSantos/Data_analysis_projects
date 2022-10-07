@@ -205,7 +205,7 @@ It has the second-lowest score, but the third-highest number of views among the 
 # Summary
 
 
-When making Physics videos for youtube in Portuguese, I suggest the following:
+When making Physics videos for youtube in Brazilian Portuguese, I suggest the following:
 
 - **Focus on videos where the time duration stays in the interval of 8 to 20 minutes.**
 
