@@ -96,7 +96,7 @@ The list of **subtopics** for the dynamics is given by:
 23. Aceleração da gravidade (Gravitational acceleration).
 <br/><br/>
 
-#Goals
+# Goals
 
 1. Are short videos watched more often than longer ones?
 <br/><br/>
