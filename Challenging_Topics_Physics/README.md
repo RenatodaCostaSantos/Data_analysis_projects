@@ -215,6 +215,14 @@ Focus attention on these subtopics, in the following order:
 3 - **Centro de massa e equilíbrio (Center of mass and balance)**.
 
 
+# Future directions
+
+- Collect data for Electromagnetism, Optics and Thermodynamics and perform a similar analysis.
+
+- Use the data from the ministry of education once it is available and perform a more thorough analysis.
+
+
+
 **Connect with me on [LinkedIn](https://www.linkedin.com/in/renato-costa-b937851b3/)**.
 
 
