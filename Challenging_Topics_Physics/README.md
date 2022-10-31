@@ -204,7 +204,7 @@ While this topic has the second-lowest score, it also has a lower number of view
 
 When making Physics videos for YouTube in Brazilian Portuguese, I suggest the following:
 
-- **Aim to produce videos of 8 to 20 minutes duration.**
+- **Do not worry about keeping videos short. The data suggests longer videos are preferred by the audience, as long as I keep it under 20 minutes.**
 
 Focus attention on these subtopics, in the following order:
 
