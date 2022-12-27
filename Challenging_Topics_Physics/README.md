@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="1000" height="500" src="equations.jpg">
+  <img width="1000" height="500" src="images/equations.jpg">
 </p>
 
 You may wonder what do I mean by "potential topics". Allow me to explain.
